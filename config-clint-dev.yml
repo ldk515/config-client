@@ -1,2 +1,2 @@
- ifno:
-  profile:dev
+ spring:
+  profiles:dev
